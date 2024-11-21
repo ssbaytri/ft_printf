@@ -1,4 +1,14 @@
+<div align="center">
+  <img src="https://drive.google.com/uc?id=1CqTm1sCvGfZUy0BhUhWS4Sk4VZ7Vxsa2" alt="Ft_Printf Header" width="100%">
+</div>
+
 # ft_printf 🖨️
+<div align="center">
+  
+![42 Logo](https://img.shields.io/badge/42-Libft-blueviolet)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+</div>
 
 ## Project Description
 
