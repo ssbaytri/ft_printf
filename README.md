@@ -2,9 +2,9 @@
   <img src="https://drive.google.com/uc?id=14qoePZpzJNUWPCoepJ_Mmi8vrnd1xJAE" alt="Ft_Printf Header" width="100%">
 </div>
 
-# ft_printf 🖨️
+
 <div align="center">
-  
+<h1>ft_printf 🖨️</h1>  
 ![42 Logo](https://img.shields.io/badge/42-Libft-blueviolet)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
