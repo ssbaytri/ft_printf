@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?id=1CqTm1sCvGfZUy0BhUhWS4Sk4VZ7Vxsa2" alt="Ft_Printf Header" width="100%">
+  <img src="https://drive.google.com/uc?id=14qoePZpzJNUWPCoepJ_Mmi8vrnd1xJAE" alt="Ft_Printf Header" width="100%">
 </div>
 
 # ft_printf 🖨️
